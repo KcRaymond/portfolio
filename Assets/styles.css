@@ -2,6 +2,7 @@
   position: fixed;
   top: 50;
   left: 0;
+  background-color: blue;
 }
 .bgwidth {
   width: 100%;
@@ -12,6 +13,11 @@
 .col-12 {
   text-align: left;
   color: white;
-  margin-top: 700px;
+  margin-top: 600px;
   margin-left: 92px;
+}
+.col-9 {
+  margin-top: 60px;
+  margin-left: 60px;
+  opacity: 85%;
 }
