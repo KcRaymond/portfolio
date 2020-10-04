@@ -1,0 +1,17 @@
+#bg {
+  position: fixed;
+  top: 50;
+  left: 0;
+}
+.bgwidth {
+  width: 100%;
+}
+.bgheight {
+  height: 100%;
+}
+.col-12 {
+  text-align: left;
+  color: white;
+  margin-top: 700px;
+  margin-left: 92px;
+}
