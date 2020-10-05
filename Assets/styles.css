@@ -25,10 +25,15 @@ body {
   margin-left: 60px;
 }
 
-/* // makes picture on bio page responsive */
+/* // following makes pictures on about page responsive */
 .bio-pict {
   width: 100%;
   height: auto;
+}
+.resume-pict {
+  width: 75%;
+  height: auto;
+  margin-left: 35px;
 }
 
 /* // following addresses form layout */
@@ -44,7 +49,9 @@ body {
 .form-group {
   color: white;
 }
-
+.btn-info {
+  opacity: 75%;
+}
 /* // following addresses container layout */
 .container {
   align-content: center;
