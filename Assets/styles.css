@@ -2,13 +2,15 @@
   position: fixed;
   top: 50;
   left: 0;
-  background-color: blue;
 }
 .bgwidth {
   width: 100%;
 }
 .bgheight {
   height: 100%;
+}
+body {
+  background-color: rgb(5, 60, 170);
 }
 .col-12 {
   text-align: left;
@@ -17,7 +19,29 @@
   margin-left: 92px;
 }
 .col-9 {
+  border-radius: 25px;
   margin-top: 60px;
   margin-left: 60px;
   opacity: 85%;
+}
+h5 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+.bio-pict {
+  width: 100%;
+  height: auto;
+}
+.form-container {
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+.form-row {
+  padding: 15px;
+}
+
+.form-group {
+  color: white;
 }
