@@ -10,8 +10,9 @@
   height: 100%;
 }
 body {
-  background-color: rgb(5, 60, 170);
+  background-color: black;
 }
+/* // following addresses about page layout */
 .col-12 {
   text-align: left;
   color: white;
@@ -19,20 +20,18 @@ body {
   margin-left: 92px;
 }
 .col-9 {
-  border-radius: 25px;
-  margin-top: 60px;
+  align-content: center;
+  margin-top: 0px;
   margin-left: 60px;
-  opacity: 85%;
 }
-h5 {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  font-weight: bold;
-}
+
+/* // makes picture on bio page responsive */
 .bio-pict {
   width: 100%;
   height: auto;
 }
+
+/* // following addresses form layout */
 .form-container {
   margin-top: 60px;
   margin-left: 60px;
@@ -44,4 +43,15 @@ h5 {
 
 .form-group {
   color: white;
+}
+
+/* // following addresses container layout */
+.container {
+  align-content: center;
+  margin-top: 60px;
+  opacity: 88%;
+}
+/* // following addresses portfolio card layout */
+.card-title {
+  font-weight: bold;
 }
