@@ -1,3 +1,4 @@
+/* // following addresses background layout */
 #bg {
   position: fixed;
   top: 50;
@@ -38,8 +39,11 @@ body {
 
 /* // following addresses form layout */
 .form-container {
+  align-content: center;
+  max-width: 1000px;
   margin-top: 60px;
   margin-left: 60px;
+  opacity: 90%;
 }
 
 .form-row {
@@ -48,9 +52,12 @@ body {
 
 .form-group {
   color: white;
+  opacity: 80%;
 }
 .btn-info {
-  opacity: 75%;
+  opacity: 90%;
+  margin-left: 60px;
+  padding: 5px;
 }
 /* // following addresses container layout */
 .container {

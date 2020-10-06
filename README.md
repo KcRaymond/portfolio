@@ -12,6 +12,6 @@ Use the Bootstrap CSS Framework to create a mobile responsive portfolio. Here ar
 
 The following links to the web application's appearance and functionality:
 
-[Bootstrap responsive portfolio demo](https://kcraymond.github.io/portfolio/)
+[Bootstrap responsive portfolio](https://kcraymond.github.io/portfolio/)
 
 © 2020 KLR Designs
