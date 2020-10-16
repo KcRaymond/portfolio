@@ -69,3 +69,16 @@ body {
 .card-title {
   font-weight: bold;
 }
+.jumbotron {
+  background-color: white;
+  opacity: 85%;
+  font-weight: bolder;
+}
+.lead {
+  font-weight: bold;
+  color: rgb(5, 60, 170);
+}
+h6 {
+  color: grey;
+  text-align: center;
+}
