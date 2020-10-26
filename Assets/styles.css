@@ -3,6 +3,7 @@
   position: fixed;
   top: 50;
   left: 0;
+  opacity: 75%;
 }
 .bgwidth {
   width: 100%;
@@ -63,7 +64,7 @@ body {
 .container {
   align-content: center;
   margin-top: 60px;
-  opacity: 88%;
+  opacity: 90%;
 }
 /* // following addresses portfolio card layout */
 .card-title {
