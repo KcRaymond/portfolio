@@ -1,4 +1,8 @@
 /* // following addresses background layout */
+
+.navbar-dark {
+  background-image: linear-gradient(blue, black);
+}
 #bg {
   position: fixed;
   top: 50;
@@ -82,4 +86,13 @@ body {
 h6 {
   color: grey;
   text-align: center;
+}
+.linkedin,
+.github {
+  width: 35px;
+  height: 35px;
+  margin: 8px;
+}
+#githubBtn {
+  margin-left: 75px;
 }
