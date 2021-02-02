@@ -143,10 +143,11 @@ h6 {
 #githubBtn {
   margin-left: 75px;
 }
+/*index.html hover action for linking to portfolio */
 .hover-image,
-.portfolio-btn:hover .normal-image {
+.portfolio:hover .normal-image {
   display: none;
 }
-.portfolio-btn:hover .hover-image {
+.portfolio:hover .hover-image {
   display: inline;
 }
