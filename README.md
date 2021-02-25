@@ -1,17 +1,47 @@
-```
-Use the Bootstrap CSS Framework to create a mobile responsive portfolio. Here are some guidelines:
+# Responsive Bootstrap Portfolio
 
-* Using Bootstrap, develop your portfolio site with the following items:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-   * A navbar
+## Description:
 
-   * A responsive layout
+Designed a self promotional website using Bootstrap CSS Framework to create a mobile responsive portfolio.
 
-   * Responsive images
-```
+---
 
-The following links to the web application's appearance and functionality:
+> ## Table of Contents
 
-[Bootstrap responsive portfolio](https://kcraymond.github.io/portfolio/)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-© 2020 KLR Designs
+## Installation:
+
+To install necessary dependencies run the following command:
+
+> n/a
+
+## Usage Information:
+
+Website can be view on GitHub URL by clicking the screenshot below.
+
+> <a href= "https://kcraymond.github.io/portfolio/" target="_blank"> <img src="assets/images/portfolio-screenshot.jpg" width="550"></a>
+
+## Contributing Information:
+
+Nothing at this time. This is a personal portfolio.
+
+## Tests:
+
+To run tests, run the following command:
+
+> n/a
+
+## Questions:
+
+---
+
+> Creator Github account: [Kasey Raymond](https://api.github.com/users/KcRaymond)
+
+> Email Creator: [kaseyleigh1978@gmail.com](mailto:)
