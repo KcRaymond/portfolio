@@ -26,7 +26,7 @@ To install necessary dependencies run the following command:
 
 Website can be view on GitHub URL by clicking the screenshot below.
 
-> <a href= "https://kcraymond.github.io/portfolio/" target="_blank"> <img src="assets/images/portfolio-screenshot.jpg" width="550"></a>
+> <a href= "https://kcraymond.github.io/portfolio/" target="_blank"> <img src="Assets/Images/portfolio-screenshot.jpg" width="550"></a>
 
 ## Contributing Information:
 
